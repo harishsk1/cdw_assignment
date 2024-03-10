@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # cdw_assigment
 # cdw_assigment
 # cdw_assigment
+# cdw_assignment
